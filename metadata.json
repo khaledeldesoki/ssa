@@ -1,0 +1,11 @@
+{
+  "name": "Guardian Parental Control",
+  "description": "Cross-platform parental monitoring and device management application rewritten from Android Guardian (SSA), featuring real-time telemetry, app blocking, remote locking, usage tracking, and camera snapshots.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
